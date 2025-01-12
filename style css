@@ -1,0 +1,12 @@
+header h1 { color: rgb(197, 118, 16); font-size: 50px; text-align: center;}
+ body{ background-color: rgb(232, 159, 133);}
+ header h2 {color: rgb(230, 137, 16); font-size: 30px; text-align: center;}
+ footer { background-color: red ; font-size: 20px;}
+ .fortik{widht: 40px; height:200px;}
+ main p {color:rgb(182, 91, 7)}
+ h2 { color: rgb(230, 137, 16);}
+ .super {width:400px; height:200px;}
+ header h2{border: 1px solid rgb(197, 122, 10); border-radius:11px;}
+ nav a {border: 5px solid rgb(224, 137, 5); margin: 15px; padding:15px; border-radius:10px; text-decoration:none;}
+
+ 
